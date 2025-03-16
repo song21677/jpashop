@@ -1,0 +1,16 @@
+jpabook\jpashop\domain\Category.class
+jpabook\jpashop\domain\OrderStatus.class
+jpabook\jpashop\domain\OrderItem.class
+jpabook\jpashop\domain\Book.class
+jpabook\jpashop\domain\Member.class
+jpabook\jpashop\service\MemberService.class
+jpabook\jpashop\config\WebConfig.class
+jpabook\jpashop\domain\Item.class
+jpabook\jpashop\service\MemberServiceTest.class
+jpabook\jpashop\domain\Album.class
+jpabook\jpashop\domain\DeliveryStatus.class
+jpabook\jpashop\domain\Movie.class
+jpabook\jpashop\domain\Delivery.class
+jpabook\jpashop\domain\Order.class
+jpabook\jpashop\domain\Address.class
+jpabook\jpashop\repository\MemberRepository.class
